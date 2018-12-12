@@ -12,3 +12,7 @@ Changelog
 
 ### Tweak/Remodify/Tester
 @zard777
+
+
+## Kudos 
+[@pan_azej](https://steamcommunity.com/id/pan_azej) for the original author 
