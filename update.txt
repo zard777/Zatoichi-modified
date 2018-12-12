@@ -1,0 +1,7 @@
+Changelog:
+- Fixed game crash related to other mods and containers.
+
+Broken stuff (to be fixed):
+-- FIX BOUNTY HAT + BACKPACK ITEM OVERFLOW
+-- FIX WILDERNESS BUG WITH SEEING QUICKIE METERS
+--- ULLAPOOL CABER ATTACK FIX
